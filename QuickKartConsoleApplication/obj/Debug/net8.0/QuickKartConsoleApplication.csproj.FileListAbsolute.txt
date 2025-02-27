@@ -1,0 +1,14 @@
+C:\Users\darsh\Desktop\QuickKart\QuickKartConsoleApplication\bin\Debug\net8.0\QuickKartConsoleApplication.exe
+C:\Users\darsh\Desktop\QuickKart\QuickKartConsoleApplication\bin\Debug\net8.0\QuickKartConsoleApplication.deps.json
+C:\Users\darsh\Desktop\QuickKart\QuickKartConsoleApplication\bin\Debug\net8.0\QuickKartConsoleApplication.runtimeconfig.json
+C:\Users\darsh\Desktop\QuickKart\QuickKartConsoleApplication\bin\Debug\net8.0\QuickKartConsoleApplication.dll
+C:\Users\darsh\Desktop\QuickKart\QuickKartConsoleApplication\bin\Debug\net8.0\QuickKartConsoleApplication.pdb
+C:\Users\darsh\Desktop\QuickKart\QuickKartConsoleApplication\obj\Debug\net8.0\QuickKartConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darsh\Desktop\QuickKart\QuickKartConsoleApplication\obj\Debug\net8.0\QuickKartConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\darsh\Desktop\QuickKart\QuickKartConsoleApplication\obj\Debug\net8.0\QuickKartConsoleApplication.AssemblyInfo.cs
+C:\Users\darsh\Desktop\QuickKart\QuickKartConsoleApplication\obj\Debug\net8.0\QuickKartConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\darsh\Desktop\QuickKart\QuickKartConsoleApplication\obj\Debug\net8.0\QuickKartConsoleApplication.dll
+C:\Users\darsh\Desktop\QuickKart\QuickKartConsoleApplication\obj\Debug\net8.0\refint\QuickKartConsoleApplication.dll
+C:\Users\darsh\Desktop\QuickKart\QuickKartConsoleApplication\obj\Debug\net8.0\QuickKartConsoleApplication.pdb
+C:\Users\darsh\Desktop\QuickKart\QuickKartConsoleApplication\obj\Debug\net8.0\QuickKartConsoleApplication.genruntimeconfig.cache
+C:\Users\darsh\Desktop\QuickKart\QuickKartConsoleApplication\obj\Debug\net8.0\ref\QuickKartConsoleApplication.dll

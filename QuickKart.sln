@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickKartDataAccessLayer", "QuickKartDataAccessLayer\QuickKartDataAccessLayer.csproj", "{30D540E4-8430-47D4-AC7B-9C30E59B96D5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickKartMVCApp", "QuickKartMVCApp\QuickKartMVCApp.csproj", "{BC1B9CEA-616F-489C-8B44-BAC9DF454A6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickKartWebServices", "QuickKartWebServices\QuickKartWebServices.csproj", "{01749D18-0BD2-43D5-8244-FBC6896DD6BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickKartConsoleApplication", "QuickKartConsoleApplication\QuickKartConsoleApplication.csproj", "{DCAC6EBE-0FD0-4218-A0F9-5F858F7A6073}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{344B7338-F127-4D3A-B4EF-7A62E7FAE0C2}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30D540E4-8430-47D4-AC7B-9C30E59B96D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D540E4-8430-47D4-AC7B-9C30E59B96D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D540E4-8430-47D4-AC7B-9C30E59B96D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D540E4-8430-47D4-AC7B-9C30E59B96D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1B9CEA-616F-489C-8B44-BAC9DF454A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1B9CEA-616F-489C-8B44-BAC9DF454A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1B9CEA-616F-489C-8B44-BAC9DF454A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1B9CEA-616F-489C-8B44-BAC9DF454A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01749D18-0BD2-43D5-8244-FBC6896DD6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01749D18-0BD2-43D5-8244-FBC6896DD6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01749D18-0BD2-43D5-8244-FBC6896DD6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01749D18-0BD2-43D5-8244-FBC6896DD6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCAC6EBE-0FD0-4218-A0F9-5F858F7A6073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCAC6EBE-0FD0-4218-A0F9-5F858F7A6073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCAC6EBE-0FD0-4218-A0F9-5F858F7A6073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCAC6EBE-0FD0-4218-A0F9-5F858F7A6073}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BC79105-BB52-48B3-9CC6-042C2A15C890}
+	EndGlobalSection
+EndGlobal

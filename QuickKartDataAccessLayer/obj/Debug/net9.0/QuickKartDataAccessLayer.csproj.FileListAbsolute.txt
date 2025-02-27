@@ -1,0 +1,15 @@
+C:\Users\darsh\Desktop\QuickKart\QuickKartDataAccessLayer\bin\Debug\net9.0\appsettings.json
+C:\Users\darsh\Desktop\QuickKart\QuickKartDataAccessLayer\bin\Debug\net9.0\QuickKartDataAccessLayer.deps.json
+C:\Users\darsh\Desktop\QuickKart\QuickKartDataAccessLayer\bin\Debug\net9.0\QuickKartDataAccessLayer.runtimeconfig.json
+C:\Users\darsh\Desktop\QuickKart\QuickKartDataAccessLayer\bin\Debug\net9.0\QuickKartDataAccessLayer.dll
+C:\Users\darsh\Desktop\QuickKart\QuickKartDataAccessLayer\bin\Debug\net9.0\QuickKartDataAccessLayer.pdb
+C:\Users\darsh\Desktop\QuickKart\QuickKartDataAccessLayer\obj\Debug\net9.0\QuickKartDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\darsh\Desktop\QuickKart\QuickKartDataAccessLayer\obj\Debug\net9.0\QuickKartDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darsh\Desktop\QuickKart\QuickKartDataAccessLayer\obj\Debug\net9.0\QuickKartDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\darsh\Desktop\QuickKart\QuickKartDataAccessLayer\obj\Debug\net9.0\QuickKartDataAccessLayer.AssemblyInfo.cs
+C:\Users\darsh\Desktop\QuickKart\QuickKartDataAccessLayer\obj\Debug\net9.0\QuickKartDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\darsh\Desktop\QuickKart\QuickKartDataAccessLayer\obj\Debug\net9.0\QuickKartDataAccessLayer.dll
+C:\Users\darsh\Desktop\QuickKart\QuickKartDataAccessLayer\obj\Debug\net9.0\refint\QuickKartDataAccessLayer.dll
+C:\Users\darsh\Desktop\QuickKart\QuickKartDataAccessLayer\obj\Debug\net9.0\QuickKartDataAccessLayer.pdb
+C:\Users\darsh\Desktop\QuickKart\QuickKartDataAccessLayer\obj\Debug\net9.0\QuickKartDataAccessLayer.genruntimeconfig.cache
+C:\Users\darsh\Desktop\QuickKart\QuickKartDataAccessLayer\obj\Debug\net9.0\ref\QuickKartDataAccessLayer.dll
